@@ -3,7 +3,7 @@
 
  # Getting started with my API project
  
- This project make use of Postman and PGadminGUI.
+ This project made extensive use of Postman and PGadminGUI during development.
 
  Finally project is deployed with help of Render.
 
