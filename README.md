@@ -2,7 +2,10 @@
  to try out my project visit the link [https://fastapi-project-y95s.onrender.com/docs](https://fastapi-project-y95s.onrender.com/docs)
 
  # Getting started with my API project
+ 
  This project make use of Postman and PGadminGUI.
+
+ Finally project is deployed with help of Render.
 
  ## Execute following scripts
 
