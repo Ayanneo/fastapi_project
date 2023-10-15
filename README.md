@@ -16,3 +16,6 @@
  ## To run the project in your local environment 
 
  ### `uvicorn app.main:app --reload`
+
+ Render - Free postgre server suspended
+ redeployed on new server
