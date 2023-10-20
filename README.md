@@ -1,11 +1,11 @@
 # fastapi_project
- to try out my project visit the link [https://fastapi-project-y95s.onrender.com/docs](https://fastapi-project-y95s.onrender.com/docs)
+ to try out my project visit the link [https://fastapi-project-be07op4o5-ayanneo.vercel.app/doc](https://fastapi-project-be07op4o5-ayanneo.vercel.app/doc)
 
  # Getting started with my API project
  
  This project made extensive use of Postman and PGadminGUI during development.
 
- Finally project is deployed with help of Render.
+ Finally project is deployed with help of vercel.
 
  ## Execute following scripts
 
@@ -19,3 +19,5 @@
 
  Render - Free postgre server suspended
  redeployed on new server
+ 
+ deployed on vercel now
