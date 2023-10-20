@@ -1,5 +1,5 @@
 # fastapi_project
- to try out my project visit the link [https://fastapi-project-be07op4o5-ayanneo.vercel.app/doc](https://fastapi-project-be07op4o5-ayanneo.vercel.app/doc)
+ to try out my project visit the link [https://fastapi-project-be07op4o5-ayanneo.vercel.app/docs](https://fastapi-project-be07op4o5-ayanneo.vercel.app/docs)
 
  # Getting started with my API project
  
